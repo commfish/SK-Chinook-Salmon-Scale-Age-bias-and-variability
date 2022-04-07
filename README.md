@@ -1,2 +1,2 @@
 # SK-Chinook-Salmon-Scale-Age-bias-and-variability
-Saltonstall Kennedy funded study of the bias and variability in Chinook salmon scale age estimates
+Study of the bias and variability in Chinook salmon scale age estimates. This project received funding under award NA16NMF4270252 from NOAA Fisheries Service, in cooperation with the Saltonstall-Kennedy Grant Program. The statements, findings, conclusions, and recommendations are those of the author(s) and do not necessarily reflect the views of NOAA Fisheries.
